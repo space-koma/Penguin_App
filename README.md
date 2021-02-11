@@ -1,12 +1,6 @@
-<link rel="stylesheet" href="style.css">
 # My Penguin App
-<style>
-    .penguin {
-         width: 50px;
-        height: 50px;
-    }
-</style>
-    
+
+<link rel="stylesheet" href="style.css">
 <h2>This is my little penguin pet</h2>
 
  <div class="penguin">
